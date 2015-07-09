@@ -34,14 +34,52 @@ h3 {
 
 /*"The Classy Roommate"*/
 
+#Audrey {
+  margin: 0 auto;
+  border: 20px solid red;
+  display: block;
+}
 
 /*"The Neurotic New Yorker"*/
 
-  
+#Woody, #YorkPeppermintPatty {
+  border: 20px solid red;
+}
+
+  #Woody {
+    padding: 55px 35px;
+    margin-left: 100px;
+    
+  }
+
+
 /*"The Change the World Roommate"*/
 
+#Obama {
+  float:left;
+  border: 20px solid red;
+}
+
+#Rosie {
+  float:right;
+  border: 25px solid blue;
+  border-radius: 50%;
+}
 
 /*"The Art History Major"*/
+
+#Art {
+  border:solid 20px red;
+}
+
+#Picasso {
+  height: 300px;
+}
+
+#Warhol {
+  height: 300px;
+  margin-left: 95px;
+}
 
 /*"New Theme"*/
 
